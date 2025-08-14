@@ -1,0 +1,304 @@
+{
+  "metadata": {
+    "url": "https://udyamregistration.gov.in/UdyamRegistration.aspx",
+    "title": "UDYAM REGISTRATION FORM - For New Enterprise who are not Registered yet as MSME",
+    "scraped_at": "2025-08-14 22:01:09",
+    "total_steps": 2
+  },
+  "steps": [
+    {
+      "step_number": 1,
+      "title": "Step 1",
+      "description": "",
+      "fields": [
+        {
+          "name": "__EVENTTARGET",
+          "type": "hidden",
+          "label": "",
+          "placeholder": "",
+          "required": false,
+          "validation_rules": [],
+          "options": null,
+          "max_length": null,
+          "pattern": null,
+          "css_selector": "#__EVENTTARGET"
+        },
+        {
+          "name": "__EVENTARGUMENT",
+          "type": "hidden",
+          "label": "",
+          "placeholder": "",
+          "required": false,
+          "validation_rules": [],
+          "options": null,
+          "max_length": null,
+          "pattern": null,
+          "css_selector": "#__EVENTARGUMENT"
+        },
+        {
+          "name": "__VIEWSTATE",
+          "type": "hidden",
+          "label": "",
+          "placeholder": "",
+          "required": false,
+          "validation_rules": [],
+          "options": null,
+          "max_length": null,
+          "pattern": null,
+          "css_selector": "#__VIEWSTATE"
+        },
+        {
+          "name": "__VIEWSTATEGENERATOR",
+          "type": "hidden",
+          "label": "",
+          "placeholder": "",
+          "required": false,
+          "validation_rules": [],
+          "options": null,
+          "max_length": null,
+          "pattern": null,
+          "css_selector": "#__VIEWSTATEGENERATOR"
+        },
+        {
+          "name": "__VIEWSTATEENCRYPTED",
+          "type": "hidden",
+          "label": "",
+          "placeholder": "",
+          "required": false,
+          "validation_rules": [],
+          "options": null,
+          "max_length": null,
+          "pattern": null,
+          "css_selector": "#__VIEWSTATEENCRYPTED"
+        },
+        {
+          "name": "__EVENTVALIDATION",
+          "type": "hidden",
+          "label": "",
+          "placeholder": "",
+          "required": false,
+          "validation_rules": [],
+          "options": null,
+          "max_length": null,
+          "pattern": null,
+          "css_selector": "#__EVENTVALIDATION"
+        },
+        {
+          "name": "ctl00$ContentPlaceHolder1$txtadharno",
+          "type": "text",
+          "label": "1. Aadhaar Number/ आधार संख्या",
+          "placeholder": "Your Aadhaar No",
+          "required": false,
+          "validation_rules": [
+            "max_length: 12"
+          ],
+          "options": null,
+          "max_length": null,
+          "pattern": null,
+          "css_selector": "#ctl00_ContentPlaceHolder1_txtadharno"
+        },
+        {
+          "name": "ctl00$ContentPlaceHolder1$txtownername",
+          "type": "text",
+          "label": "2. Name of Entrepreneur / उद्यमी का नाम",
+          "placeholder": "Name as per Aadhaar",
+          "required": false,
+          "validation_rules": [
+            "max_length: 100"
+          ],
+          "options": null,
+          "max_length": null,
+          "pattern": null,
+          "css_selector": "#ctl00_ContentPlaceHolder1_txtownername"
+        },
+        {
+          "name": "ctl00$ContentPlaceHolder1$chkDecarationA",
+          "type": "checkbox",
+          "label": "I, the holder of the above Aadhaar, hereby give my consent to Ministry of MSME, Government of India, for using my Aadhaar number as alloted by UIDAI for Udyam Registration. NIC / Ministry of MSME, Government of India, have informed me that my aadhaar data will not be stored/shared. / मैं, आधार धारक, इस प्रकार उद्यम पंजीकरण के लिए यूआईडीएआई के साथ अपने आधार संख्या का उपयोग करने के लिए सू0ल0म0उ0 मंत्रालय, भारत सरकार को अपनी सहमति देता हूं। एनआईसी / सू0ल0म0उ0 मंत्रालय, भारत सरकार ने मुझे सूचित किया है कि मेरा आधार डेटा संग्रहीत / साझा नहीं किया जाएगा।",
+          "placeholder": "",
+          "required": false,
+          "validation_rules": [],
+          "options": null,
+          "max_length": null,
+          "pattern": null,
+          "css_selector": "#ctl00_ContentPlaceHolder1_chkDecarationA"
+        },
+        {
+          "name": "ctl00$ContentPlaceHolder1$btnValidateAadhaar",
+          "type": "submit",
+          "label": "",
+          "placeholder": "",
+          "required": false,
+          "validation_rules": [],
+          "options": null,
+          "max_length": null,
+          "pattern": null,
+          "css_selector": "#ctl00_ContentPlaceHolder1_btnValidateAadhaar"
+        },
+        {
+          "name": "checkbox",
+          "type": "checkbox",
+          "label": "",
+          "placeholder": "",
+          "required": false,
+          "validation_rules": [],
+          "options": null,
+          "max_length": null,
+          "pattern": null,
+          "css_selector": "#checkbox"
+        }
+      ],
+      "validation_rules": [
+        "max_length: 100",
+        "max_length: 12"
+      ]
+    },
+    {
+      "step_number": 2,
+      "title": "Step 2",
+      "description": "",
+      "fields": [
+        {
+          "name": "__EVENTTARGET",
+          "type": "hidden",
+          "label": "",
+          "placeholder": "",
+          "required": false,
+          "validation_rules": [],
+          "options": null,
+          "max_length": null,
+          "pattern": null,
+          "css_selector": "#__EVENTTARGET"
+        },
+        {
+          "name": "__EVENTARGUMENT",
+          "type": "hidden",
+          "label": "",
+          "placeholder": "",
+          "required": false,
+          "validation_rules": [],
+          "options": null,
+          "max_length": null,
+          "pattern": null,
+          "css_selector": "#__EVENTARGUMENT"
+        },
+        {
+          "name": "__VIEWSTATE",
+          "type": "hidden",
+          "label": "",
+          "placeholder": "",
+          "required": false,
+          "validation_rules": [],
+          "options": null,
+          "max_length": null,
+          "pattern": null,
+          "css_selector": "#__VIEWSTATE"
+        },
+        {
+          "name": "__VIEWSTATEGENERATOR",
+          "type": "hidden",
+          "label": "",
+          "placeholder": "",
+          "required": false,
+          "validation_rules": [],
+          "options": null,
+          "max_length": null,
+          "pattern": null,
+          "css_selector": "#__VIEWSTATEGENERATOR"
+        },
+        {
+          "name": "__VIEWSTATEENCRYPTED",
+          "type": "hidden",
+          "label": "",
+          "placeholder": "",
+          "required": false,
+          "validation_rules": [],
+          "options": null,
+          "max_length": null,
+          "pattern": null,
+          "css_selector": "#__VIEWSTATEENCRYPTED"
+        },
+        {
+          "name": "__EVENTVALIDATION",
+          "type": "hidden",
+          "label": "",
+          "placeholder": "",
+          "required": false,
+          "validation_rules": [],
+          "options": null,
+          "max_length": null,
+          "pattern": null,
+          "css_selector": "#__EVENTVALIDATION"
+        },
+        {
+          "name": "ctl00$ContentPlaceHolder1$txtadharno",
+          "type": "text",
+          "label": "1. Aadhaar Number/ आधार संख्या",
+          "placeholder": "Your Aadhaar No",
+          "required": false,
+          "validation_rules": [
+            "max_length: 12"
+          ],
+          "options": null,
+          "max_length": null,
+          "pattern": null,
+          "css_selector": "#ctl00_ContentPlaceHolder1_txtadharno"
+        },
+        {
+          "name": "ctl00$ContentPlaceHolder1$txtownername",
+          "type": "text",
+          "label": "2. Name of Entrepreneur / उद्यमी का नाम",
+          "placeholder": "Name as per Aadhaar",
+          "required": false,
+          "validation_rules": [
+            "max_length: 100"
+          ],
+          "options": null,
+          "max_length": null,
+          "pattern": null,
+          "css_selector": "#ctl00_ContentPlaceHolder1_txtownername"
+        },
+        {
+          "name": "ctl00$ContentPlaceHolder1$chkDecarationA",
+          "type": "checkbox",
+          "label": "I, the holder of the above Aadhaar, hereby give my consent to Ministry of MSME, Government of India, for using my Aadhaar number as alloted by UIDAI for Udyam Registration. NIC / Ministry of MSME, Government of India, have informed me that my aadhaar data will not be stored/shared. / मैं, आधार धारक, इस प्रकार उद्यम पंजीकरण के लिए यूआईडीएआई के साथ अपने आधार संख्या का उपयोग करने के लिए सू0ल0म0उ0 मंत्रालय, भारत सरकार को अपनी सहमति देता हूं। एनआईसी / सू0ल0म0उ0 मंत्रालय, भारत सरकार ने मुझे सूचित किया है कि मेरा आधार डेटा संग्रहीत / साझा नहीं किया जाएगा।",
+          "placeholder": "",
+          "required": false,
+          "validation_rules": [],
+          "options": null,
+          "max_length": null,
+          "pattern": null,
+          "css_selector": "#ctl00_ContentPlaceHolder1_chkDecarationA"
+        },
+        {
+          "name": "ctl00$ContentPlaceHolder1$btnValidateAadhaar",
+          "type": "submit",
+          "label": "",
+          "placeholder": "",
+          "required": false,
+          "validation_rules": [],
+          "options": null,
+          "max_length": null,
+          "pattern": null,
+          "css_selector": "#ctl00_ContentPlaceHolder1_btnValidateAadhaar"
+        },
+        {
+          "name": "checkbox",
+          "type": "checkbox",
+          "label": "",
+          "placeholder": "",
+          "required": false,
+          "validation_rules": [],
+          "options": null,
+          "max_length": null,
+          "pattern": null,
+          "css_selector": "#checkbox"
+        }
+      ],
+      "validation_rules": [
+        "max_length: 100",
+        "max_length: 12"
+      ]
+    }
+  ]
+}
